@@ -14,7 +14,7 @@
 1. Follow step in this video to install mysql on your local computer https://www.youtube.com/watch?v=WuBcTJnIuzo
 
 ### Data Sources 
-Sales Data: The primary dataset used for this analysis is the "db_dump.sql" file, containing detailed information about the company.
+Sales Data: The primary dataset used for this analysis is the "sales_data.sql" file, containing detailed information about the company.
 
 ## Tools
 - Sql - Data cleaning 
