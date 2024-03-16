@@ -1,4 +1,4 @@
-# Sales_Analysis Of a Hardware Store
+# Sales_Analysis Of A Hardware Store
 
 ## Table Of Contents 
 
