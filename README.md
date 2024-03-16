@@ -7,6 +7,8 @@
 - [Recommendations](#recommendations)
 
 ### Project Overview 
+
+---
  A Hardware company named "X", a major supplier of hardware peripherals, has experienced a sales decline noted by Sales Director Mr. Y. Identifying the root cause and pinpointing declining business areas is challenging due to the company's extensive branch network. This project aims to conduct data analysis on sales data to uncover insights into the downturn. By analyzing sales performance across locations and timeframes, actionable intelligence will be provided to help the management team formulate targeted strategies for business optimization
 
 ### Instructions to setup mysql on your local computer
